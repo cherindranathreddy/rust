@@ -10,6 +10,7 @@ fn main() {
     {
         const THREE_HOURS_IN_SECONDS : u32 = 60*60*3;
         println!("The constant value is=> {THREE_HOURS_IN_SECONDS}")
+        println!("My first rust commit");
     }
 
     println!("Shadowing -> ability to bind different value or different type of value to varibale which has a same name within the scope");
